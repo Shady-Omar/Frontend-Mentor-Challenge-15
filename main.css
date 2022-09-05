@@ -6,6 +6,11 @@ body {
     width: 100%;
     overflow-x: hidden; 
     padding: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    flex-direction: column;
 }
 
 hr {
@@ -127,7 +132,7 @@ main {
     top: 5%;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1050px) {
     body {
         background-image: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
     }

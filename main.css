@@ -1,6 +1,6 @@
 body {
     font-family: 'Kumbh Sans', sans-serif;
-    background-image: linear-gradient(hsl(240, 73%, 65%), hsl(273, 75%, 66%));
+    background-image: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
     background-attachment:fixed;
     margin: 0px;
     width: 100%;
